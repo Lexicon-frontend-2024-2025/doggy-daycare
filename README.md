@@ -1,3 +1,4 @@
+![image](./doggyposter.png)
 # Övning: Bygg ett Hunddagis i React och Next.js
 
 ## 🎯 **Mål med övningen**
