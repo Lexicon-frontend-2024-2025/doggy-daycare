@@ -42,7 +42,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 
 ### 3. **Hämta och visa alla hundar**
 
-- Skapa en sida (`app/hundar/page.js`) som hämtar data från API:et med `fetch()` i `useEffect()` eller `server-side rendering` via `getServerSideProps`.
+- Skapa en sida (`app/hundar/page.tss`) som hämtar data från API:et med `fetch()` i `useEffect()` eller `server-side rendering` via `getServerSideProps`.
 
 - Visa hundarna i kort enligt skissen, med:
   - Bild
