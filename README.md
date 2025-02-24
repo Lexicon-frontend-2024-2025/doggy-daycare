@@ -71,7 +71,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 
 - Inkludera navigation (t.ex. "Hund 2 av 134") och knappar för att bläddra mellan hundarna utan att gå tillbaka till huvudsidan.
 
-**Tips:** Använd `useState` för att hantera närvarostatus och `useRouter()` för att navigera mellan hundprofiler.
+**Tips:** Använd `useState` för att hantera närvarostatus och `useRouter()` eller `Link` för att navigera mellan hundprofiler.
 
 ---
 
