@@ -36,7 +36,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 - Skapa en startsida (`app/page.js`) som visar en välkomstsida enligt Figma-skissen.
 - Lägg till en knapp som leder till huvudsidan med alla hundar.
 
-**Tips:** Använd `useRouter()` från `next/navigation` för att navigera mellan sidor.
+**Tips:** Använd `Link` eller `useRouter()` från `next/navigation` för att navigera mellan sidor.
 
 ---
 
