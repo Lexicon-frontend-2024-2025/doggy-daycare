@@ -33,7 +33,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 
 ### 2. **Bygg Splash-sidan**
 
-- Skapa en startsida (`app/page.js`) som visar en välkomstsida enligt Figma-skissen.
+- Skapa en startsida (`app/page.tsx`) som visar en välkomstsida enligt Figma-skissen.
 - Lägg till en knapp som leder till huvudsidan med alla hundar.
 
 **Tips:** Använd `Link` eller `useRouter()` från `next/navigation` för att navigera mellan sidor.
@@ -60,7 +60,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 
 ### 4. **Bygg hundens profilsida**
 
-- Skapa en **dynamisk route** `app/hundar/[id]/page.js`.
+- Skapa en **dynamisk route** `app/hundar/[id]/page.tsx`.
 - Hämta data för den enskilda hunden från API:et baserat på ID:t från URL:en.
 - Visa detaljerad information:
   - Namn, ras, ålder, beskrivning
