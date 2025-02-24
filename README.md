@@ -112,6 +112,7 @@ I denna övning ska du bygga en webbapplikation för ett hunddagis med hjälp av
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [API-endpoint](https://majazocom.github.io/Data/dogs.json)
 
 ---
 
